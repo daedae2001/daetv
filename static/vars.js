@@ -1,5 +1,5 @@
 lista_canales = [
-    ['ARGENTINA', 'CANAL10', 'https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8', 'CANAL10', 'https://www.m3u.cl/logo/266_Canal_10.png'],
+    ['ARGENTINA', 'CANAL10', 'https://n9.cl/3p6ih', 'CANAL10', 'https://www.m3u.cl/logo/266_Canal_10.png'],
     ['ARGENTINA', 'CANAL26', 'http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8', 'CANAL26', 'https://www.m3u.cl/logo/271_Canal_26.png'],
     ['ARGENTINA', 'canl nn', 'https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8', 'canl nn', 'x'],
     ['ARGENTINA', 'CRONICA', 'https://qwe00.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw', 'CRONICA', 'https://n9.cl/9qod5'],
