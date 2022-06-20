@@ -1253,9 +1253,9 @@ def ciclo_chico(id1):
         
 
 x01 = datetime.datetime.now()
-x02=datetime.datetime.now()+datetime.timedelta(minutes=340)
-x = datetime.datetime.now()-datetime.timedelta(minutes=30)
-x1=datetime.datetime.now()+datetime.timedelta(minutes=370)
+x02=datetime.datetime.now()+datetime.timedelta(minutes=540)
+x = datetime.datetime.now()-datetime.timedelta(minutes=60)
+x1=datetime.datetime.now()+datetime.timedelta(minutes=570)
 fecha = "%s/%s/%s" % (x.day, x.month, x.year)
 f = open('todo.xml', 'r')
 text_xml=f.read()

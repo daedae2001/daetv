@@ -263,7 +263,7 @@ body:before {
 
 .tg .tg-hora {
     min-height: 20px;
-    max-height: 60px;
+    max-height: 50px;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
@@ -275,7 +275,7 @@ body:before {
 
 .tg .tg-titulo {
     min-height: 20px;
-    max-height: 90px;
+    max-height: 70px;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
@@ -287,7 +287,7 @@ body:before {
 
 .tg .tg-desc {
     min-height: 90px;
-    max-height: 120px;
+    max-height: 100px;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
