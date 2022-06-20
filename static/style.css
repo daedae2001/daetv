@@ -249,6 +249,7 @@ body:before {
 }
 
 .tftable td {
+    width: 60;
     border-style: solid;
     border-color: #729ea5;
 }
@@ -264,6 +265,7 @@ body:before {
 .tg .tg-hora {
     min-height: 20px;
     max-height: 50px;
+    width: 60;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
@@ -276,6 +278,7 @@ body:before {
 .tg .tg-titulo {
     min-height: 20px;
     max-height: 70px;
+    width: 60;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
@@ -288,6 +291,7 @@ body:before {
 .tg .tg-desc {
     min-height: 90px;
     max-height: 100px;
+    width: 60;
     background-color: rgba(0, 0, 0, 0);
     border-color: inherit;
     font-family: "Lucida Console", Monaco, monospace !important;
